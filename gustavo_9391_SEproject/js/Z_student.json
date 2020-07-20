@@ -1,0 +1,60 @@
+{
+	"studentList": [
+		{
+			"userID": "rioyui",
+			"firstName": "Yui",
+			"lastName": "Rio",
+			"birthDate": "1985-05-15",
+			"age": "35",
+			"phoneNumber": "",
+			"email": "rioyui@example.com",
+			"username": "rioyui",
+			"password": "m5H*nv^Tf7@\tWCK",
+			"passportNumber": "CV459836"
+		},{
+			"userID": "vatiboya",
+			"firstName": "Iboya",
+			"lastName": "Vat",
+			"birthDate": "1987-06-15",
+			"age": "33",
+			"phoneNumber": "",
+			"email": "vatiboya@example.com",
+			"username": "vatiboya",
+			"password": "/C&LF&4j8(7R#kxH",
+			"passportNumber": "CV458836"
+		},{
+			"userID": "moreirazilda",
+			"firstName": "Zilda",
+			"lastName": "Moreira",
+			"birthDate": "1995-03-23",
+			"age": "25",
+			"phoneNumber": "",
+			"email": "moreirazilda@example.com",
+			"username": "moreirazilda",
+			"password": ")tU[H4(p56W5M/Qq",
+			"passportNumber": "FU658836"
+		},{
+			"userID": "halllucy",
+			"firstName": "Lucy",
+			"lastName": "Hall",
+			"birthDate": "1993-01-13",
+			"age": "27",
+			"phoneNumber": "",
+			"email": "halllucy@example.com",
+			"username": "lucyhall",
+			"password": "&-cm.d53aWR[n^[^",
+			"passportNumber": "FU658336"
+		},{
+			"userID": "collingmark",
+			"firstName": "Mark",
+			"lastName": "Collin",
+			"birthDate": "1998-06-30",
+			"age": "22",
+			"phoneNumber": "",
+			"email": "halllucy@example.com",
+			"username": "lucyhall",
+			"password": "bx^7+@u(&Pmc=Vj",
+			"passportNumber": "BA658836"
+		}
+	]
+}
